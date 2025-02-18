@@ -2,4 +2,5 @@ vpc endpoints
 SQS
 Amazon Kinesis
 udp level 4 alb layer 7 traffic
-nat gateway
+Nat gateway
+
